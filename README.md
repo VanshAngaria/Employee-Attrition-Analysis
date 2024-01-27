@@ -1,5 +1,5 @@
-User
-## Employee Attrition Analysis
+# Employee Attrition Analysis
+
 
 
 This repository contains Python code for analyzing employee attrition using various data visualization techniques and a machine learning model.
