@@ -63,7 +63,7 @@ The code includes data visualization using seaborn, matplotlib, and plotly. It e
 
 # Additional Data Analysis
 In addition to the machine learning model, the code includes detailed data analysis through visualizations. Some of the key visualizations include:
-
+![Analysis](graph.png)
 Age vs Total Working Years
 Age vs Daily Rate
 Years in Current Role vs Age
@@ -80,4 +80,4 @@ The machine learning part of the code involves building a random forest classifi
 
 # Results
 The results of the machine learning model, including accuracy scores and classification reports, are printed in the console. Additionally, feature importance is visualized using a scatter plot.
-
+![Result](result.png)
